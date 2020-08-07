@@ -1,6 +1,6 @@
-module github.com/vikin91/graphql
+module github.com/gesundheitscloud/graphql
 
-go 1.13
+go 1.14
 
 require (
 	github.com/matryer/is v1.4.0
